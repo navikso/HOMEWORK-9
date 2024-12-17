@@ -9,6 +9,7 @@
     border-radius: 5px;
     margin: 8px;
     transition: background 0.3s;
+    width: 30%;
   }
   
   button:hover {
